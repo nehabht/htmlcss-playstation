@@ -18,25 +18,63 @@ body{
 }
 
 .navbar{
-    height: 80px;
-    background-color: grey;
+    height: 60px;
+    font-size: 13px;
+    
    
 }
+.navbar-expand-lg .navbar-nav .dropdown-menu{
+    top: 57px;
+    border: transparent;
+    border-radius: 0px;
+}
+
+ul{
+    list-style-type:none;
+    display:flex;
+    justify-content: center;
+  
+}
+
+ul li{
+    display: list-item;
+    
+    margin: 0 3px;
+}
+
+
+
+/* li{
+    float: left;
+} */
+
+.dropdown-menu{
+    margin-top: -20px;
+}
+
+
+
 
 
 /* second jumbo */
 
-/* .new_games{
-    background-color: black;
-} */
 
-
-.sony_footer_logo{
-    width: 100px;
-}
+/* social media */
 
 .social_media .row{
     max-width: 500px;
     margin: 0 auto;
 
 }
+
+
+
+
+
+
+/* footer */
+
+.sony_footer_logo{
+    width: 100px;
+}
+
