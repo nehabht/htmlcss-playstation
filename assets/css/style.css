@@ -29,3 +29,14 @@ body{
 /* .new_games{
     background-color: black;
 } */
+
+
+.sony_footer_logo{
+    width: 100px;
+}
+
+.social_media .row{
+    max-width: 500px;
+    margin: 0 auto;
+
+}
