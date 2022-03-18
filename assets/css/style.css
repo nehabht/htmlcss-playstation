@@ -8,24 +8,33 @@ body{
 
 .sony{
     background-color: black;
-    height: 35px;
+    height: 30px;
     text-align: end;
 
 }
 
 .sony img{
-    height: 15px;
+    height: 13px;
     margin: 10px;
 }
 
 .navbar{
-    height: 60px;
-    font-size: 10px;
-    
-   
+    /* height: 40px; */
+    font-size: 13px;
+
+}
+
+.navbar-expand-lg .navbar-nav .nav-link{
+    padding-left: 0;
+    padding-right: 1rem;
+
+}
+
+.navbar-brand img{
+    width: 30px;
 }
 .navbar-expand-lg .navbar-nav .dropdown-menu{
-    top: 57px;
+    top: 56px;
     border: transparent;
     border-radius: 0px;
 }
@@ -36,7 +45,9 @@ body{
     padding: 0;
 }
 
-
+.log-in{
+    font-size: 15px;
+}
 
 .li-row{
     display: inline-block;
@@ -63,15 +74,22 @@ body{
 
 /* navbar card */
 
-.card img{
+.navbar .card img{
     width: 50px;
     margin: 0 auto;
     
     
 }
 
-.card-text{
+.navbar .card-text{
     font-size: 10px;
+}
+
+.navbar-left img{
+    height: 20px;
+    align-self: center;
+    margin-left: 17px;
+
 }
 
 
