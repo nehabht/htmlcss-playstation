@@ -163,6 +163,35 @@ body{
     
 }
 
+/* new games */
+
+.new_games img{
+    border-radius: 20px;
+
+}
+
+/* play4  */
+
+.reg{
+    font-size: 50%;
+    vertical-align: 10px;
+    
+}
+
+/* playstation plus */
+
+.ps_plus{
+    background-color: #C4C4C4;
+}
+
+.logo-plus{
+    width: 50%;
+}
+
+.btn_plus{
+    background-color: #D9DADC;
+}
+
 
 /* social media */
 
