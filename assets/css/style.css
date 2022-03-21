@@ -132,7 +132,7 @@ body{
 }
 
 
-@media screen and (min-width: 1200px){
+@media screen and (min-width: 992px){
     .main_text{
         max-width: 380px;
     }
@@ -145,12 +145,23 @@ body{
 }
 
 
+/* products play */
 
-
-
-
+.products_play5 .border_bottom{
+    border-bottom: 2px solid #0070d2;
+    
+}
 
 /* second jumbo */
+
+.jumbo2 {
+    background-image:url(../img/it-takes-two-hero-banner-desktop.jpg);
+    background-size: cover;
+    height: 500px;
+    background-repeat: no-repeat;
+    background-position: top center;
+    
+}
 
 
 /* social media */
@@ -162,12 +173,8 @@ body{
 }
 
 
-/* products play */
 
-.products_play5 .border_bottom{
-    border-bottom: 2px solid #0070d2;
-    
-}
+
 
 
 
